@@ -7,7 +7,7 @@ Este sistema utiliza um sensor de gás MQ-6 para detectar a presença de gases i
 
 
 🚦 Fluxograma
-![Fluxograma](fluxograma.png)
+![Fluxograma](Fluxograma.png)
 
 🚀 Funcionalidades
 Monitoramento contínuo da concentração de gás.
